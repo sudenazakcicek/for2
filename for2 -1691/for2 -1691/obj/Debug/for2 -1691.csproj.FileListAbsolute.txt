@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2 -1691.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2 -1691.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2__1691.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2__1691.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2 -1691.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sude naz\for2 -1691\for2 -1691\obj\Debug\for2 -1691.csproj.CoreCompileInputs.cache

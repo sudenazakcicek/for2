@@ -19,7 +19,7 @@ namespace for2__1691
 
         private void btnEkle_Click(object sender, EventArgs e)
         {
-            string sayilar = txtSayilar.Text;
+           
 
             for (int i = 24; i < 76; i++)
             {
